@@ -1,0 +1,2 @@
+# satabdi
+miner project
